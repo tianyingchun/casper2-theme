@@ -34,7 +34,7 @@
                 <section class="copyright"><a href="{@url/}">{Settings.title}</a> &copy; {@date format="YYYY"/}</section>
                 <nav class="site-footer-nav">
                     <a href="{@url/}">Latest Posts</a>
-                    <a href="https://www.postleaf.org/" target="_blank">Postleaf</a>
+                    <a href="https://yeeex.com/" target="_blank">Yeeex Blog</a>
                 </nav>
             </div>
         </footer>
