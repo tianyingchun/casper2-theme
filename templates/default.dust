@@ -10,7 +10,9 @@
     <title>{meta.title}</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    <meta name="description" content="{meta.description}">
+    <link rel="icon" href="{@dynamicImage src=Settings.favicon thumbnail="256"/}">
+    <link rel="apple-touch-icon" href="{@dynamicImage src=Settings.favicon thumbnail="256"/}">
     {! Styles'n'Scripts !}
     <link rel="stylesheet" type="text/css" href="{@url type="theme" path="assets/css/global.css"/}" />
     <link rel="stylesheet" type="text/css" href="{@url type="theme" path="assets/css/screen.css"/}" />
